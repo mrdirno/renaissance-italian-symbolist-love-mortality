@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-italian-symbolist-love-mortality",
+  "title": "The Truest Cut of Captured Silence",
+  "tagline": "In a workshop where art and artifice meet, an apprentice learns that love, like metal, is shaped by the deepest and most deceptive cuts.",
+  "target_words": 69471,
+  "actual_words": 69471,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Artifice and Truth",
+    "The Bitterness of Creation",
+    "Love as a Captor",
+    "The Mortality of Beauty"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Peach and the Copper Blade",
+      "words": 5789
+    },
+    {
+      "ch": 2,
+      "title": "Where Shadows Gild the Lily",
+      "words": 5789
+    },
+    {
+      "ch": 3,
+      "title": "The Traitorous Wax",
+      "words": 5789
+    },
+    {
+      "ch": 4,
+      "title": "A Root in Unseen Soil",
+      "words": 5789
+    },
+    {
+      "ch": 5,
+      "title": "The Path of Absence",
+      "words": 5789
+    },
+    {
+      "ch": 6,
+      "title": "A Heart of Captured Silence",
+      "words": 5789
+    },
+    {
+      "ch": 7,
+      "title": "The Mountains' Verdict",
+      "words": 5789
+    },
+    {
+      "ch": 8,
+      "title": "Into the Valley's Throat",
+      "words": 5789
+    },
+    {
+      "ch": 9,
+      "title": "The Predator's Quiet",
+      "words": 5789
+    },
+    {
+      "ch": 10,
+      "title": "The Needle, The Thread, The Price",
+      "words": 5789
+    },
+    {
+      "ch": 11,
+      "title": "The Silence After the Bell",
+      "words": 5789
+    },
+    {
+      "ch": 12,
+      "title": "The Truest Cut",
+      "words": 5789
+    }
+  ]
+}
